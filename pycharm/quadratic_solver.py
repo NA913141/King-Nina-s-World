@@ -1,6 +1,6 @@
 """
 File: quadratic_solver.py
-Name:馮令彝
+Name:馮郁宸
 -----------------------
 This program should implement a console program
 that asks 3 inputs (a, b, and c)
