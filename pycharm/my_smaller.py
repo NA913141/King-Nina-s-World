@@ -1,6 +1,6 @@
 """
 File: my_smaller.py
-Name:馮令彝
+Name:馮郁宸
 -------------------------
 This program implements a my_smaller function
 which takes 2 arguments and outputs the
