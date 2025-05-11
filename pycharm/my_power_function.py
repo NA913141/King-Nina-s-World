@@ -1,6 +1,6 @@
 """
 File: my_power_function.py
-Name: 馮令彝
+Name: 馮郁宸
 -------------------------------
 This program shows students how to 
 make their own functions by defining
