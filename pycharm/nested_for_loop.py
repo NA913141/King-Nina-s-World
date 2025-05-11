@@ -1,6 +1,6 @@
 """
 File: nested_for_loop.py
-Name:馮令彝
+Name:馮郁宸
 ------------------------
 This program shows students the basic
 concepts of nested (double) for loop
