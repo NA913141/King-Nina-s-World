@@ -1,6 +1,6 @@
 """
 File: guess_my_number.py
-Name:馮令彝
+Name:馮郁宸
 -----------------------------
 This program plays a Console game
 "Guess My Number" which asks user
