@@ -1,6 +1,6 @@
 """
 File: hailstone.py
-Name:馮令彝
+Name:馮郁宸
 -----------------------
 This program should implement a console program that simulates
 the execution of the Hailstone sequence, defined by Douglas
