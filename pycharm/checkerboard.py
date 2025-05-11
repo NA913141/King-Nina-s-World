@@ -1,6 +1,6 @@
 """
 File: checkerboard.py
-Name:馮令彝
+Name:馮郁宸
 ------------------------
 This program prints an alternating 
 checkerboard pattern on Console
